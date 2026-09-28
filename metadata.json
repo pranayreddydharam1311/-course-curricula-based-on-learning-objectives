@@ -1,0 +1,6 @@
+{
+  "name": "CurriculaAI - Course Curriculum Generator",
+  "description": "AI-powered curriculum architect that transforms learning objectives into structured modules, outcomes, and assessment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
